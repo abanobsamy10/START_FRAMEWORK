@@ -1,0 +1,27 @@
+.back
+{
+    background-color: #1a252f;
+}
+.background
+{
+    background-color:#2c3e50;
+}
+.nav-link{
+    margin-right: 20px !important;
+    border-radius: 10px;
+    background-color: #1abc9c;
+}
+.div-of-icons i
+{
+    font-size: medium;
+    border: white solid 1px;
+    padding: 12px;
+}
+.help
+{
+    height: 300px !important;
+}
+.xy
+{
+    width: 93%;
+}

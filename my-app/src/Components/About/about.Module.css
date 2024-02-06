@@ -1,0 +1,30 @@
+.maindiv
+{
+    width: 100% !important;
+    height: 490px ;
+    background-color:#1abc9c ;
+}
+.ii
+{
+    position: relative;
+}
+.yy::after
+{
+    content: "";
+    background-color: white;
+    position: absolute;
+    width: 90px;
+    height: 5px;
+    right: 30px;
+    top: 5px;
+}
+/* .yy::before
+{
+    content: "";
+    background-color: white;
+    position: absolute;
+    width: 90px;
+    height: 5px;
+    left: 30px;
+    top: 5px;
+} */
